@@ -2,4 +2,5 @@
 A python based gaming platform , made by using tkinter module(for an engaging user interface) and SQL(for storing data of the gamers).
 
 #REPORT ON THE ENTIRE PROJECT
-maze runner.pdf
+-> check the:
+maze runner report.pdf
